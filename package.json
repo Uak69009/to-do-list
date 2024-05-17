@@ -1,0 +1,21 @@
+{
+  "name": "todo-list-by-uak",
+  "version": "1.0.0",
+  "description": "todo list using ts",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "todo-list": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umair amjad khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
